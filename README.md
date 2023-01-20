@@ -58,4 +58,4 @@ It will end up looking like this:
 
 - The blogs table has a foreign key relationship to a table called authors update the BlogCard to include the author's name by including author in the supabase call
 
-Small changeeee
+Small changeeeeeee
